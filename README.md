@@ -42,7 +42,7 @@ Este projeto foi desenvolvido como parte da avaliação **CP1**, com os seguinte
 ## Como Rodar Localmente
 
 # Clone este repositório
-git clone https://github.com/seu-usuario/cp1-streamlit-dashboard.git
+git clone https://github.com/roger0n/CP01-Dashboard-Augusto.git
 cd cp1-streamlit-dashboard
 
 # (Opcional) Crie um ambiente virtual
