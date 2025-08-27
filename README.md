@@ -1,4 +1,4 @@
-# CP1 — Dashboard Profissional + Análise de Dados
+# CP01 — Dashboard Profissional + Análise de Dados
 
 [![Made with Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-ff4b4b?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3110/)
@@ -43,7 +43,7 @@ Este projeto foi desenvolvido como parte da avaliação **CP1**, com os seguinte
 
 # Clone este repositório
 git clone https://github.com/roger0n/CP01-Dashboard-Augusto.git
-cd cp1-streamlit-dashboard
+cd CP01-Dashboard-Augusto
 
 # (Opcional) Crie um ambiente virtual
 python -m venv .venv
